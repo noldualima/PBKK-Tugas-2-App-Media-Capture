@@ -1,0 +1,6 @@
+D:\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\net6.0-windows\WebcamCaptureApp.Form1.resources
+D:\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\net6.0-windows\WebcamCaptureApp.csproj.GenerateResource.cache
+D:\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\net6.0-windows\WebcamCaptureApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\net6.0-windows\WebcamCaptureApp.AssemblyInfoInputs.cache
+D:\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\net6.0-windows\WebcamCaptureApp.AssemblyInfo.cs
+D:\PBKK\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\net6.0-windows\WebcamCaptureApp.csproj.CoreCompileInputs.cache
